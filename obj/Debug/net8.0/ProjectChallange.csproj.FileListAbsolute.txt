@@ -1,0 +1,15 @@
+C:\Users\BENE\Desktop\dotNet\ProjectChallange\bin\Debug\net8.0\ProjectChallange.exe
+C:\Users\BENE\Desktop\dotNet\ProjectChallange\bin\Debug\net8.0\ProjectChallange.deps.json
+C:\Users\BENE\Desktop\dotNet\ProjectChallange\bin\Debug\net8.0\ProjectChallange.runtimeconfig.json
+C:\Users\BENE\Desktop\dotNet\ProjectChallange\bin\Debug\net8.0\ProjectChallange.dll
+C:\Users\BENE\Desktop\dotNet\ProjectChallange\bin\Debug\net8.0\ProjectChallange.pdb
+C:\Users\BENE\Desktop\dotNet\ProjectChallange\obj\Debug\net8.0\ProjectChallange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BENE\Desktop\dotNet\ProjectChallange\obj\Debug\net8.0\ProjectChallange.AssemblyInfoInputs.cache
+C:\Users\BENE\Desktop\dotNet\ProjectChallange\obj\Debug\net8.0\ProjectChallange.AssemblyInfo.cs
+C:\Users\BENE\Desktop\dotNet\ProjectChallange\obj\Debug\net8.0\ProjectChallange.csproj.CoreCompileInputs.cache
+C:\Users\BENE\Desktop\dotNet\ProjectChallange\obj\Debug\net8.0\ProjectChallange.sourcelink.json
+C:\Users\BENE\Desktop\dotNet\ProjectChallange\obj\Debug\net8.0\ProjectChallange.dll
+C:\Users\BENE\Desktop\dotNet\ProjectChallange\obj\Debug\net8.0\refint\ProjectChallange.dll
+C:\Users\BENE\Desktop\dotNet\ProjectChallange\obj\Debug\net8.0\ProjectChallange.pdb
+C:\Users\BENE\Desktop\dotNet\ProjectChallange\obj\Debug\net8.0\ProjectChallange.genruntimeconfig.cache
+C:\Users\BENE\Desktop\dotNet\ProjectChallange\obj\Debug\net8.0\ref\ProjectChallange.dll
